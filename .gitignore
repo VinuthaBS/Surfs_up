@@ -130,4 +130,8 @@ dmypy.json
 
 # handle .DS_Store
 .DS_Store
-
+# ignore Practice files
+Copy_climate_analysis.ipynb
+measurement.csv
+station.csv
+.vscode
